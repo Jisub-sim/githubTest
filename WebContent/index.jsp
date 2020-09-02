@@ -9,7 +9,9 @@
 <body>
 	<h1>githubtest</h1>
 	<button onclick="location.href='test'">githubtest</button>
-	<button onclick="location.href='test2'">menu1</button>
-	//dddd
+  <button onclick="location.href='test2'">menu1</button>
+  <button onclick="location.href='test3'">Menu2</button>
+
+
 </body>
 </html>
