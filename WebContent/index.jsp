@@ -10,5 +10,6 @@
 	<h1>githubtest</h1>
 	<button onclick="location.href='test'">githubtest</button>
 	<button onclick="location.href='test2'">menu1</button>
+	//dddd
 </body>
 </html>
